@@ -7,6 +7,11 @@ House is one of the most important part for family and plays important role in e
 ### Introduction 
 As an important source of economic development, real estate has become a pillar industry for the United States. Conor Sen, the investment manager of New River Invest even said that Real Estate would become the economic engine in the next 5 years. Buying a house is a crucial and most expensive decision for each family. Therefore, our project is to go insight of this industry, figuring out the factors for US housing price and to predict, we have 4 datasets for four different areas: King County, Iowa, San Luis and California.
 
+### Methods
+Correlation Matrix to find out the key contributors toward housing price;
+Multiple Regressions(6 kinds) and Deep Learning Regression to analyze the relationships between key factors and housing price;
+Random Forest to predict housing prices.
+
 ### Conclusion
 Since one of our goal is to analyze the relationships among housing price and key factors, combining with all the results we get for the datasets, Linear Regression is the fittest one. 
 
